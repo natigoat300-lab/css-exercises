@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.common {
+    font-size:28px;
+    font-family:helvetica,'Times New roman',sans-serif;
+}
+#unique {
+    color:white;
+    background-color:#000000;
+}
+#unique2 {
+    background-color:yellow
+}
